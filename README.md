@@ -2,7 +2,7 @@
 
 A Python script for combining and visualizing **Plant Growth-Promoting (PGP) gene annotation results** from multiple bacterial isolates into a single comparative heatmap.
 
-Developed during comparative genomic analysis of *Atriplex nummularia* endophytic bacteria at [LABEM/UFRJ]([https://labem.microbiologia.ufrj.br/]), Universidade Federal do Rio de Janeiro (2025).
+Developed during comparative genomic analysis of *Atriplex nummularia* endophytic bacteria at [LABEM/UFRJ](https://labem.microbiologia.ufrj.br/), Universidade Federal do Rio de Janeiro (2025).
 
 ---
 
