@@ -4,6 +4,9 @@ A Python script for combining and visualizing **Plant Growth-Promoting (PGP) gen
 
 Developed during comparative genomic analysis of *Atriplex nummularia* endophytic bacteria at [LABEM/UFRJ](https://labem.microbiologia.ufrj.br/), Universidade Federal do Rio de Janeiro (2025).
 
+> **Author:** Mariana Trujillo  
+> Universidad Nacional de Colombia, Medellín · LABEM/Universidade Federal do Rio de Janeiro, Rio de Janeiro  
+
 ---
 
 ## What this does
